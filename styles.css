@@ -53,4 +53,19 @@ footer {
 
 /* Egyéb specifikus stílusok az oldalhoz */
 
-/* Add itt meg a specifikus stílusokat a tech-dolgok és termekek szekciókhoz, ha szükséges */
+#termekek ul {
+    list-style: none;
+    padding: 0;
+}
+
+#termekek li {
+    margin-bottom: 1rem;
+}
+
+#termekek h3 {
+    margin: 0;
+}
+
+#rolunk p {
+    text-align: justify;
+}
